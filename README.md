@@ -1,2 +1,2 @@
-# Pythong-Hangman-Game
+# Python-Hangman-Game
 My python project for CSCI 
